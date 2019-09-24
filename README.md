@@ -9,7 +9,7 @@ I've created a proof of concept of this data. A visualization of student test sc
 [![image](https://user-images.githubusercontent.com/44887761/65477243-b31a2e00-de53-11e9-94e0-38392cb2e6d2.png)](https://beta.vizhub.com/samemurk21/7fcea284f75542908ba69349e4daadfa)
 
 ## Questions and Tasks
-The question following questions are : 
+The following questions are : 
 How does test prep and student background affect student performance?
 Are there any trends in male & female test score?
 Does test Preparation have a significant impact?
