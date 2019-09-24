@@ -1,4 +1,4 @@
-#Data Visualization Project
+# Data Visualization Project
 
 ## Data
 The data I propose to visualize for my project is A dataset of test scores by the students in various subjects, the dataset also include their background info. [The link to the data](https://www.kaggle.com/spscientist/students-performance-in-exams).
