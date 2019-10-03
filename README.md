@@ -28,7 +28,7 @@ The following questions are :
 ## Open Question
 what does the distribution of the data look like?
 
-##Schedule of Deliverables
+## Schedule of Deliverables
 
 Danceability of the data:                     Due-10/23/19
 
