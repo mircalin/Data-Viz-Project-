@@ -9,15 +9,17 @@ I've created a proof of concept of this data. A visualization of student test sc
 [![image](https://user-images.githubusercontent.com/44887761/65477243-b31a2e00-de53-11e9-94e0-38392cb2e6d2.png)](https://beta.vizhub.com/samemurk21/7fcea284f75542908ba69349e4daadfa)
 
 ## Questions and Tasks
+
 The following questions are : 
-Markup : * How does test prep and student background affect student performance?
-            * dddd
 
-Are there any trends in male & female test score?
+* what are a few attributes that students receive different grades based on:
+  * does test prep and student background affect student performance?
+  * Specific conditions of the class?
+  * Does test Preparation have a significant impact?
 
-Does test Preparation have a significant impact?
+* Are there any trends in male & female test score?
 
-Does Parental level of education have an impact?
+* Does Parental level of education have an impact?
 
 
 ## Sketch:
