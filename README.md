@@ -1,7 +1,7 @@
 # Data Visualization Project
 
 ## Data
-The data I propose to visualize for my project is a dataset of Spotify's Top 100 songs of 2018. These songs were ecollected using the Spotify Web API and the spotify's Python library. The following attributes will be evaluated: name, artists, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, duration_ms 	time_signature. [The link to the data](https://www.kaggle.com/nadintamer/top-spotify-tracks-of-2018).
+The data I propose to visualize for my project is a dataset of Spotify's Top 100 songs of 2018. These songs were ecollected using the Spotify Web API and the spotify's Python library. What will the genre's of the songs predict? The following attributes will be evaluated: name, artists, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, duration_ms 	time_signature. [The link to the data](https://www.kaggle.com/nadintamer/top-spotify-tracks-of-2018).
 
 ## Prototype:
 A visualization showing the relationship between danceability and energy . The data shows that relatively high energy and high danceability are important to make hit song. The data also shows very few outliars for this dataset.
@@ -26,7 +26,9 @@ The following questions are :
 ![image](https://user-images.githubusercontent.com/44887761/66096839-3f220900-e56a-11e9-98e6-eea0e32f7d40.png)
 
 ## Open Question
-what does the distribution of the data look like?
+* What does the distribution of the data look like?
+
+* Would the top 100 dataset from 10 years ago correlate well with the current data set?
 
 ## Schedule of Deliverables
 
