@@ -10,9 +10,13 @@ I've created a proof of concept of this data. A visualization of student test sc
 
 ## Questions and Tasks
 The following questions are : 
-How does test prep and student background affect student performance?
+Markup : * How does test prep and student background affect student performance?
+            * dddd
+
 Are there any trends in male & female test score?
+
 Does test Preparation have a significant impact?
+
 Does Parental level of education have an impact?
 
 
@@ -20,5 +24,6 @@ Does Parental level of education have an impact?
 ![image](https://user-images.githubusercontent.com/44887761/65477911-cdeda200-de55-11e9-9cab-365febe75caa.png)
 
 ## Open Question
-is there is any bias in the data between male and female? 
+is there is any bias in the data between male and female?
 
+##Schedule of Deliverables
