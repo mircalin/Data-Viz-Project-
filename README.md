@@ -12,7 +12,7 @@ A visualization showing the relationship between danceability and energy . The d
 
 The following questions are : 
 
-* Are the more popular songs danceable:
+* Are the more popular songs danceable?
   * is there a range of energy for a song to be danceable.
 
 * What do all of these songs have in common?
@@ -23,9 +23,15 @@ The following questions are :
 
 
 ## Sketch:
-![image](https://user-images.githubusercontent.com/44887761/65477911-cdeda200-de55-11e9-9cab-365febe75caa.png)
+![image](https://user-images.githubusercontent.com/44887761/66096839-3f220900-e56a-11e9-98e6-eea0e32f7d40.png)
 
 ## Open Question
-is there is any bias in the data between male and female?
+what does the distribution of the data look like?
 
 ##Schedule of Deliverables
+
+Danceability of the data                     Due:10/23
+Similarity in songs                          Due:10/23
+Population interest                          Due:10/23
+
+
