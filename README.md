@@ -30,10 +30,10 @@ what does the distribution of the data look like?
 
 ##Schedule of Deliverables
 
-Danceability of the data:                     Due:10/23
+Danceability of the data:                     Due-10/23
 
-Similarity in songs:                          Due:10/23
+Similarity in songs:                          Due-10/23
 
-Population interest:                          Due:10/23
+Population interest:                          Due-10/23
 
 
