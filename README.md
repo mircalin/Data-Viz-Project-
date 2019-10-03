@@ -1,7 +1,7 @@
 # Data Visualization Project
 
 ## Data
-The data I propose to visualize for my project is a dataset of test scores by the students in various subjects, the dataset also include their background info. The following attributes will be evaluated: gender, race/ethnicity, parental level of education, lunch, test preparation course, math score, reading score, and writing score.[The link to the data](https://www.kaggle.com/spscientist/students-performance-in-exams).
+The data I propose to visualize for my project is a dataset of Spotify's Top 100 songs of 2018. These songs were ecollected using the Spotify Web API and the spotipy Python library. The following attributes will be evaluated: name, artists, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, duration_ms 	time_signature. [The link to the data](https://www.kaggle.com/nadintamer/top-spotify-tracks-of-2018).
 
 ## Prototype:
 I've created a proof of concept of this data. A visualization of student test scores based on background between male and female shows a significant trend. The data shows that there is a linear trend between the two. The odd trend is the data between male and female shows a difference in magnitude. Males are shown to have higher math scores than females. Females are shown to have higher writing and reading scores than males. 2 outliars are shown as female with parents with high school experience and the other with parents with some high school experience. Students with parents that did not finish a college degree showed very low scores. Students with parents that had some college had higher test scores. 
