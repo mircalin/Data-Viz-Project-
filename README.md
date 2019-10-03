@@ -23,7 +23,7 @@ The following questions are :
 
 
 ## Sketch:
-[image](https://user-images.githubusercontent.com/44887761/66096839-3f220900-e56a-11e9-98e6-eea0e32f7d40.png)
+![image](https://user-images.githubusercontent.com/44887761/66096839-3f220900-e56a-11e9-98e6-eea0e32f7d40.png)
 
 ## Open Question
 * What does the distribution of the data look like?
