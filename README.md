@@ -32,14 +32,21 @@ The following questions are :
 
 ## Schedule of Deliverables
 
-Danceability of the data:                     Due-10/23/19
+Danceability of the data:                     Due-10/10/19
 
-Similarity in songs:                          Due-10/23/19
+Similarity in songs:                          Due-10/10/19
 
-Population interest:                          Due-10/23/19
+Population interest:                          Due-10/10/19
 
 ## Findings 
-Looking into the dataset a bit closer, there seems to be a small restriction in the duration of music, there is only one outlier exceeding over the 6.5-minute mark. Could this change be overly popular in the media to have an average length for music or is a demand from Spotify to use less bandwidth for streaming purposes.
+Are Songs Getting Shorter? Looking into the dataset a bit closer, there seems to be a small restriction in the duration of music, there is only one outlier exceeding over the 6.5-minute mark. Could this change be overly popular in the media to have an average length for music or is a demand from Spotify to use less bandwidth for streaming purposes. The average duration of a track is narrowed down between 2.5 and 4 minutes. These clusters seems to unbiased of genre and danceability but across the board in music.  
 
 [![image](https://user-images.githubusercontent.com/44887761/66365470-111e3980-e95b-11e9-8b6c-5a99c61c4b44.png)](https://beta.vizhub.com/samemurk21/9bac56d08115406e91f0876c2bd1372d?edit=files&file=index.html)
+
+* Energy is a measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy. For example, death metal has high energy, while a Bach prelude scores low on the scale. Perceptual features contributing to this attribute include dynamic range, perceived loudness, timbre, onset rate, and general entropy.
+key
+
+* Mode indicates the modality (major or minor) of a track, the type of scale from which its melodic content is derived. Major is represented by 1 and minor is 0.
+
+* The duration of the track are shown in minutes. 
 
