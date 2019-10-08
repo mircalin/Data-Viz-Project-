@@ -41,5 +41,5 @@ Population interest:                          Due-10/23/19
 ## Findings 
 Looking into the dataset a bit closer, there seems to be a small restriction in the duration of music, there is only one outlier exceeding over the 6.5-minute mark. Could this change be overly popular in the media to have an average length for music or is a demand from Spotify to use less bandwidth for streaming purposes.
 
-[![image](https://user-images.githubusercontent.com/44887761/66364281-2b561880-e957-11e9-824f-c0d5213da0ed.png)](https://beta.vizhub.com/samemurk21/9bac56d08115406e91f0876c2bd1372d?edit=files&file=index.html)
+[![image](https://user-images.githubusercontent.com/44887761/66365301-81788b00-e95a-11e9-9f2b-0926c0a29d86.png)](https://beta.vizhub.com/samemurk21/9bac56d08115406e91f0876c2bd1372d?edit=files&file=index.html)
 
