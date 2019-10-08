@@ -6,7 +6,7 @@ The data I propose to visualize for my project is a dataset of Spotify's Top 100
 ## Prototype:
 A visualization showing the relationship between danceability and energy . The data shows that relatively high energy and high danceability are important to make hit song. The data also shows very few outliars for this dataset.
 
-[![image](![image](https://user-images.githubusercontent.com/44887761/66096192-329cb100-e568-11e9-89c1-c89f054f9702.png)](https://beta.vizhub.com/samemurk21/6af3bc82208e4a56a695f4b0473640d7)
+(![image](https://user-images.githubusercontent.com/44887761/66096192-329cb100-e568-11e9-89c1-c89f054f9702.png)](https://beta.vizhub.com/samemurk21/6af3bc82208e4a56a695f4b0473640d7)
 
 ## Questions and Tasks
 
