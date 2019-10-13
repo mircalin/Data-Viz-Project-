@@ -8,6 +8,12 @@ A visualization showing the relationship between danceability and energy . The d
 
 [![image](https://user-images.githubusercontent.com/44887761/66096192-329cb100-e568-11e9-89c1-c89f054f9702.png)](https://beta.vizhub.com/samemurk21/6af3bc82208e4a56a695f4b0473640d7)
 
+Are Songs Getting Shorter? Looking into the dataset a bit closer, there seems to be a small restriction in the duration of music, there is only one outlier exceeding over the 6.5-minute mark. Could this change be overly popular in the media to have an average length for music or is a demand from Spotify to use less bandwidth for streaming purposes. The average duration of a track is narrowed down between 2.5 and 4 minutes. These clusters seems to unbiased of genre and danceability but across the board in music.  
+
+[![image](https://user-images.githubusercontent.com/44887761/66365470-111e3980-e95b-11e9-8b6c-5a99c61c4b44.png)](https://beta.vizhub.com/samemurk21/9bac56d08115406e91f0876c2bd1372d?edit=files&file=index.html)
+
+
+
 [![image](https://user-images.githubusercontent.com/44887761/66722331-e0665600-edd9-11e9-9e5c-16f7de81644b.png)](https://beta.vizhub.com/samemurk21/6af3bc82208e4a56a695f4b0473640d7)
 
 ## Questions and Tasks
@@ -40,11 +46,7 @@ Similarity in songs:                          Due-10/10/19
 
 Population interest:                          Due-10/10/19
 
-## Findings 
-Are Songs Getting Shorter? Looking into the dataset a bit closer, there seems to be a small restriction in the duration of music, there is only one outlier exceeding over the 6.5-minute mark. Could this change be overly popular in the media to have an average length for music or is a demand from Spotify to use less bandwidth for streaming purposes. The average duration of a track is narrowed down between 2.5 and 4 minutes. These clusters seems to unbiased of genre and danceability but across the board in music.  
-
-[![image](https://user-images.githubusercontent.com/44887761/66365470-111e3980-e95b-11e9-8b6c-5a99c61c4b44.png)](https://beta.vizhub.com/samemurk21/9bac56d08115406e91f0876c2bd1372d?edit=files&file=index.html)
-
+## Definition
 * Energy is a measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy. For example, death metal has high energy, while a Bach prelude scores low on the scale. Perceptual features contributing to this attribute include dynamic range, perceived loudness, timbre, onset rate, and general entropy.
 key
 
