@@ -6,7 +6,7 @@ The data I propose to visualize for my project is a dataset of Spotify's Top 100
 ## Prototype:
 A visualization showing the relationship between danceability and energy . The data shows that relatively high energy and high danceability are important to make hit song. The data also shows very few outliars for this dataset.
 
-[![image](https://user-images.githubusercontent.com/44887761/66096192-329cb100-e568-11e9-89c1-c89f054f9702.png)](https://beta.vizhub.com/samemurk21/6af3bc82208e4a56a695f4b0473640d7)
+[![image](https://user-images.githubusercontent.com/44887761/66723177-08f34d80-ede4-11e9-9ca1-f99034fc947b.png)](https://beta.vizhub.com/samemurk21/6af3bc82208e4a56a695f4b0473640d7)
 
 Are Songs Getting Shorter? Looking into the dataset a bit closer, there seems to be a small restriction in the duration of music, there is only one outlier exceeding over the 6.5-minute mark. Could this change be overly popular in the media to have an average length for music or is a demand from Spotify to use less bandwidth for streaming purposes. The average duration of a track is narrowed down between 2.5 and 4 minutes. These clusters seems to unbiased of genre and danceability but across the board in music.  
 
