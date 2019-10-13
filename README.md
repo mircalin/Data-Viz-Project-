@@ -8,6 +8,8 @@ A visualization showing the relationship between danceability and energy . The d
 
 [![image](https://user-images.githubusercontent.com/44887761/66096192-329cb100-e568-11e9-89c1-c89f054f9702.png)](https://beta.vizhub.com/samemurk21/6af3bc82208e4a56a695f4b0473640d7)
 
+[![image](https://user-images.githubusercontent.com/44887761/66722331-e0665600-edd9-11e9-9e5c-16f7de81644b.png)](https://beta.vizhub.com/samemurk21/6af3bc82208e4a56a695f4b0473640d7)
+
 ## Questions and Tasks
 
 The following questions are : 
