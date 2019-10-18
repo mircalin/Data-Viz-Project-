@@ -13,6 +13,7 @@ Are Songs Getting Shorter? Looking into the dataset a bit closer, there seems to
 [![image](https://user-images.githubusercontent.com/44887761/66865205-bf7e3c00-ef64-11e9-84ea-b30ec73525ba.png)](https://beta.vizhub.com/samemurk21/9bac56d08115406e91f0876c2bd1372d?edit=files&file=index.html)
 
 A visualization showing the relationship between danceability and duration in Milliseconds. 
+
 ![image](https://user-images.githubusercontent.com/44887761/67061596-ca84c800-f12e-11e9-9da1-8c79acdd7d82.png)
 
 A visualization showing the relationship between danceability and artists. 
@@ -45,9 +46,14 @@ The following questions are :
 
 Danceability of the data:                     Due-10/10/19
 
-Similarity in songs:                          Due-10/10/19
+Similarity in songs:                          Due-10/3/19
 
 Population interest:                          Due-10/10/19
+
+Trends in musics dataset:                     Due-10/17/19
+
+Summarise Project                             Due-10/24/19
+
 
 ## Definition
 
@@ -74,6 +80,7 @@ Acousticness - A confidence measure from 0.0 to 1.0 of whether the track is acou
 Instrumentalness - Predicts whether a track contains no vocals. "Ooh" and "aah" sounds are treated as instrumental in this context. Rap or spoken word tracks are clearly "vocal". The closer the instrumentalness value is to 1.0, the greater likelihood the track contains no vocal content. Values above 0.5 are intended to represent instrumental tracks, but confidence is higher as the value approaches 1.0.
 
 Liveness - Detects the presence of an audience in the recording. Higher liveness values represent an increased probability that the track was performed live. A value above 0.8 provides strong likelihood that the track is live.
+
 Valence - A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
 
 Tempo - The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.
