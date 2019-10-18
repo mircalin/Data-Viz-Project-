@@ -12,6 +12,9 @@ Are Songs Getting Shorter? Looking into the dataset a bit closer, there seems to
 
 [![image](https://user-images.githubusercontent.com/44887761/66865205-bf7e3c00-ef64-11e9-84ea-b30ec73525ba.png)](https://beta.vizhub.com/samemurk21/9bac56d08115406e91f0876c2bd1372d?edit=files&file=index.html)
 
+A visualization showing the relationship between danceability and duration in Milliseconds. 
+![image](https://user-images.githubusercontent.com/44887761/67061596-ca84c800-f12e-11e9-9da1-8c79acdd7d82.png)
+
 A visualization showing the relationship between danceability and artists. 
 
 [![image](https://user-images.githubusercontent.com/44887761/66722331-e0665600-edd9-11e9-9e5c-16f7de81644b.png)](https://beta.vizhub.com/samemurk21/6af3bc82208e4a56a695f4b0473640d7)
