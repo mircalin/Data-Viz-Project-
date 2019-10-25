@@ -20,6 +20,9 @@ A visualization showing the relationship between danceability and artists.
 
 [![image](https://user-images.githubusercontent.com/44887761/66722331-e0665600-edd9-11e9-9e5c-16f7de81644b.png)](https://beta.vizhub.com/samemurk21/6af3bc82208e4a56a695f4b0473640d7)
 
+A visualization showing interactions between key attributes.
+
+[![image](https://user-images.githubusercontent.com/44887761/67542385-9410f500-f6ba-11e9-9ebd-9fa7e607eef7.png)](https://beta.vizhub.com/samemurk21/10d736cbacb64490a6c4b5cbab489ceb?edit=files&file=index.html)
 ## Questions and Tasks
 
 The following questions are : 
