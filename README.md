@@ -94,6 +94,8 @@ Trends in musics dataset:                     Due-10/17/19
 
 Summarise Project                             Due-10/24/19
 
+## Future work
+Future work consists of implementing more interaction in each visualization for a superior visualization. Interactions such as clicking and hovering. 
 
 
 
