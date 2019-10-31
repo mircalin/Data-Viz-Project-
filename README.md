@@ -1,7 +1,7 @@
 # Data Visualization Project
 
 ## Data
-The data I propose to visualize for my project is a dataset of Spotify's Top 100 songs of 2018. These songs were collected using the Spotify Web API and the spotify's Python library. What will the genre's of the songs predict? The following attributes will be evaluated: name, artists, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, duration_ms 	time_signature. [The link to the data](https://www.kaggle.com/nadintamer/top-spotify-tracks-of-2018).
+The data I propose to visualize for my project is a dataset of Spotify's Top 100 songs of 2018. These songs were collected using the Spotify Web API and the spotify's Python library. What will the genre's of the songs predict? The following attributes will be evaluated: name, artists, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, duration_ms 	and time_signature. [The link to the data](https://www.kaggle.com/nadintamer/top-spotify-tracks-of-2018).
 
 ## Definition
 
