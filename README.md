@@ -48,7 +48,7 @@ Are Songs Getting Shorter? Looking into the dataset a bit closer, there seems to
 
 A visualization showing the relationship between danceability and duration in Milliseconds. The duration of song seems to all compile between ranges of 200000-225000 ms. This may be another insight showing the popularity of short songs. 
 
-![image](https://user-images.githubusercontent.com/44887761/67061596-ca84c800-f12e-11e9-9da1-8c79acdd7d82.png)
+[![image](https://user-images.githubusercontent.com/44887761/67061596-ca84c800-f12e-11e9-9da1-8c79acdd7d82.png)]https://beta.vizhub.com/samemurk21/e761efd31afb47eeb88ed03b3f3d713a
 
 A visualization showing the relationship between danceability and artists. The popular songs seems to have significantly high danceability.
 
