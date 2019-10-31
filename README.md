@@ -52,7 +52,7 @@ A visualization showing the relationship between danceability and duration in Mi
 
 A visualization showing the relationship between danceability and artists. The popular songs seems to have significantly high danceability.
 
-[![image](https://user-images.githubusercontent.com/44887761/66722331-e0665600-edd9-11e9-9e5c-16f7de81644b.png)](https://beta.vizhub.com/samemurk21/6af3bc82208e4a56a695f4b0473640d7)
+[![image](https://user-images.githubusercontent.com/44887761/66722331-e0665600-edd9-11e9-9e5c-16f7de81644b.png)](https://beta.vizhub.com/samemurk21/070c4ab9887a45f3b56db8e7d2ba263c)
 
 A visualization showing interactions between key attributes. A visualization showing menus, color legends and filter. Users may select amy of the parameters in the dataset to visualize along with filtering. 
 
