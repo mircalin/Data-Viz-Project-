@@ -46,17 +46,18 @@ Are Songs Getting Shorter? Looking into the dataset a bit closer, there seems to
 
 [![image](https://user-images.githubusercontent.com/44887761/66865205-bf7e3c00-ef64-11e9-84ea-b30ec73525ba.png)](https://beta.vizhub.com/samemurk21/9bac56d08115406e91f0876c2bd1372d?edit=files&file=index.html)
 
-A visualization showing the relationship between danceability and duration in Milliseconds. 
+A visualization showing the relationship between danceability and duration in Milliseconds. The duration of song seems to all compile between ranges of 200000-225000 ms. This may be another insight showing the popularity of short songs. 
 
 ![image](https://user-images.githubusercontent.com/44887761/67061596-ca84c800-f12e-11e9-9da1-8c79acdd7d82.png)
 
-A visualization showing the relationship between danceability and artists. 
+A visualization showing the relationship between danceability and artists. The popular songs seems to have significantly high danceability.
 
 [![image](https://user-images.githubusercontent.com/44887761/66722331-e0665600-edd9-11e9-9e5c-16f7de81644b.png)](https://beta.vizhub.com/samemurk21/6af3bc82208e4a56a695f4b0473640d7)
 
-A visualization showing interactions between key attributes.
+A visualization showing interactions between key attributes. A visualization showing menus, color legends and filter. Users may select amy of the parameters in the dataset to visualize along with filtering. 
 
 [![image](https://user-images.githubusercontent.com/44887761/67542385-9410f500-f6ba-11e9-9ebd-9fa7e607eef7.png)](https://beta.vizhub.com/samemurk21/10d736cbacb64490a6c4b5cbab489ceb?edit=files&file=index.html)
+
 ## Questions and Tasks
 
 The following questions are : 
@@ -73,6 +74,8 @@ The following questions are :
 
 ## Sketch:
 ![image](https://user-images.githubusercontent.com/44887761/66096839-3f220900-e56a-11e9-98e6-eea0e32f7d40.png)
+
+A visualization showing the relationship between danceability and energy of the top 100 songs of 2018. The data shows that relatively high energy and high danceability are important to make hit song. It would be good to see what the data would have shown a decade ago.
 
 ## Open Question
 * What does the distribution of the data look like?
